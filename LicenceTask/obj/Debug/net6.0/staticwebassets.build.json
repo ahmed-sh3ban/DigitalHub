@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "cKIXmGPdTKVVdX4OGCHUJt/O8uuzuHIWwLKc55UXd4w=",
+  "Source": "LicenceTask",
+  "BasePath": "_content/LicenceTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LicenceTask\\wwwroot",
+      "Source": "LicenceTask",
+      "ContentRoot": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\",
+      "BasePath": "_content/LicenceTask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\pr_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem",
+      "SourceId": "LicenceTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\",
+      "BasePath": "_content/LicenceTask",
+      "RelativePath": "pr_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pr_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem"
+    },
+    {
+      "Identity": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\pr_fileName.pem",
+      "SourceId": "LicenceTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\",
+      "BasePath": "_content/LicenceTask",
+      "RelativePath": "pr_fileName.pem",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pr_fileName.pem"
+    },
+    {
+      "Identity": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\pu_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem",
+      "SourceId": "LicenceTask",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Digital Hub\\LicenceTask\\LicenceTask\\wwwroot\\",
+      "BasePath": "_content/LicenceTask",
+      "RelativePath": "pu_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pu_612d8098-d0cb-4e24-81e3-d7cfdf6de4d6.pem"
+    }
+  ]
+}
